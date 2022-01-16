@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+Play the Game of Tic-tac-toe with a leaderboard to check the points of X and O.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
