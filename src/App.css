@@ -70,6 +70,9 @@ border-collapse: collapse;
 }
 .winner{
 font-size:3rem;
+background-color: darkgray;
+padding:0.5rem;
+border-radius:1rem;
 }
 .leadertext{
 font-size:3.4rem;
